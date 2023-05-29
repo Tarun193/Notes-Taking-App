@@ -4,7 +4,7 @@ A note taking application in which users can create their own accounts by provid
 
 ## Video Demostrations:
 
-### Registration;
+### Registration:
 
 https://user-images.githubusercontent.com/65712331/226771452-b0e53210-2a0f-45f7-8286-50dc72c6fe52.mp4
 
